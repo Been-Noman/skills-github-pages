@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Welcome to Noman's Bin. Ready to dive in? Lessgo
 ---
 
